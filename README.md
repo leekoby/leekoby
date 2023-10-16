@@ -51,4 +51,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=timeGradient&text=조금%20늦어도%20괜찮아&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=70&animation=fadeIn&desc=&descSize=16&descAlign=83&descAlignY=88" style="width: 100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=timeGradient&text=중요한건%20꺽여도%20계속하는%20마음&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=70&animation=fadeIn&desc=&descSize=16&descAlign=83&descAlignY=88" style="width: 100%;" />
