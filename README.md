@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=timeGradient&text=FrontEnd%20Developer&fontSize=40&fontColor=FFFFFF&fontAlign=32&fontAlignY=36&animation=fadeIn&desc=leekoby&descSize=36&descAlign=86&descAlignY=36" style="width: 100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=timeGradient&text=FrontEnd%20Developer&fontSize=40&fontColor=FFFFFF&fontAlign=32&fontAlignY=36&animation=fadeIn&desc=이호승&descSize=36&descAlign=86&descAlignY=36" style="width: 100%;" />
 
 **깊이 있는 성장**을 하고 싶은 주니어 개발자 이호승입니다.<br/>
 **Typescript**로 개발하는 것을 좋아하고 최근에는 **함수형 프로그래밍**과 **성능 최적화**에 관심을 가지고 학습하고 있습니다. <br/>
