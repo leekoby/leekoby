@@ -1,13 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=timeGradient&text=FrontEnd%20Developer&fontSize=40&fontColor=FFFFFF&fontAlign=32&fontAlignY=36&animation=fadeIn&desc=이호승&descSize=36&descAlign=86&descAlignY=36" style="width: 100%;" />
 
-**깊이 있는 성장**을 하고 싶은 주니어 개발자 이호승입니다.<br/>
-**Typescript**로 개발하는 것을 좋아하고 최근에는 **함수형 프로그래밍**과 **성능 최적화**에 관심을 가지고 학습하고 있습니다. <br/>
-수많은 도전과 경험을 통해 다양한 기술 스택을 쌓고 적재적소에 알맞은 기술을 적용하여 최고의 UX를 제공할 수 있는개발자가 되고 싶습니다.<br/>
 
 # 💌 **Contact**
 
 + <a href="mailto:abc2752@naver.com">abc2752@naver.com</a>
-+ <a href="tel:010-3315-2752">010-3315-2752</a>
 + [GitHub Blog](https://leekoby.github.io)
 + [portfolio](https://leehs-portfolio.vercel.app/)
 
