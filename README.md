@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=timeGradient&text=FrontEnd%20Developer&fontSize=40&fontColor=FFFFFF&fontAlign=32&fontAlignY=36&animation=fadeIn&desc=이호승&descSize=36&descAlign=86&descAlignY=36" style="width: 100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=timeGradient&text=국가농림기상센터%20연구원&fontSize=40&fontColor=FFFFFF&fontAlign=32&fontAlignY=36&animation=fadeIn&desc=이호승&descSize=36&descAlign=86&descAlignY=36" style="width: 100%;" />
 
 
 # 💌 **Contact**
 
-+ <a href="mailto:abc2752@naver.com">abc2752@naver.com</a>
++ <a href="mailto:abc2752@snu.ac.kr">abc2752@snu.ac.kr</a>
 + [GitHub Blog](https://leekoby.github.io)
-+ [portfolio](https://leehs-portfolio.vercel.app/)
+
 
 <br/>
 
